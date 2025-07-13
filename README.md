@@ -23,6 +23,8 @@ By uncovering trends and customer insights, the company aimed to optimize market
 ### 🛠 Tools Used
 
 - Excel – Data cleaning and initial exploration
+  [Download the Excel dataset](https://github.com/your-username/bike-sales-analysis/raw/main/data/bike_sales_data.xlsx)
+
 
 - MySQL – Data extraction and transformation
 
@@ -72,3 +74,24 @@ Bar charts for age group and education breakdown
 KPI cards for total income, average income, and bike purchase rate
 
 Gauge for visualizing total bikes purchased
+
+### 📊 Results / Findings
+- Customers with higher income and middle age are more likely to purchase bikes.
+
+- Female and married customers demonstrate a slightly higher conversion rate.
+
+- Bachelor’s degree holders and partial college attendees dominate the buyer base.
+
+- Commute distance and children count have potential influence on purchasing decisions but need deeper segmentation.
+
+### 💡 Recommendations
+1. Targeted Marketing: Focus on middle-aged, high-income, married women with a Bachelor's degree in upcoming campaigns.
+
+2. Bundle Offers: Create promotions for families with children and longer commute distances.
+
+3. Customer Segmentation: Leverage filters for hyper-targeted outreach by region and occupation.
+
+4. Email Campaigns: Personalized emails to the most likely buyers based on the profile patterns discovered.
+
+5. Expand Regional Strategy: Invest more in the regions with higher engagement and bike purchase rate.
+
