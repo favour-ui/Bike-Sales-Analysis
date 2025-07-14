@@ -19,8 +19,7 @@ This project showcases an end-to-end exploratory data analysis and dashboard dev
 
 ### 📊Business Problem
 
-A bicycle company wanted to understand:
-
+**A bicycle company wanted to understand:**
 What demographic and socioeconomic groups are more likely to purchase bikes?
 
 How do factors like income, marital status, education, and commute distance affect bike sales?
@@ -46,27 +45,26 @@ The aim of this project is to analyze customer demographic data and purchase beh
 
 ### 🛠Tools Used
 
-- Excel – Data cleaning and initial exploration
+-**Excel –** Data cleaning and initial exploration
 
-- MySQL – Data extraction and transformation
+- **MySQL –** Data extraction and transformation
   
-- DAX - Perform advanced calculations
+- **DAX -** Perform advanced calculations
 
-- Power BI – Visualization and dashboard creation
+- **Power BI –** Visualization and dashboard creation
 ### 🔄Process Workflow
-This project followed a structured data analysis lifecycle:
-
-1. Data Collection
+**This project followed a structured data analysis lifecycle:**
+**1. Data Collection**
 Imported raw data from an Excel spreadsheet containing customer demographics, income levels, education, marital status, and bike purchase history.
 
-2. Data Cleaning & Preprocessing
+**2. Data Cleaning & Preprocessing**
  Handled missing or inconsistent entries using Excel
 
  Renamed columns for clarity and consistency
 
  Coded categorical variables where needed
 
-3. Data Transformation (SQL)
+**3. Data Transformation (SQL)**
  Connected dataset to MySQL Workbench
 
  Wrote queries to group, aggregate, and filter data:
@@ -75,20 +73,18 @@ Imported raw data from an Excel spreadsheet containing customer demographics, in
 
  Calculated total sales and purchase conversion percentages
 
-4. Data Visualization (Power BI)
- Imported the cleaned data into Power BI
+**4. Data Visualization (Power BI)**
+**Imported the cleaned data into Power BI Created:**
 
- Created:
+-**KPI cards:** for total revenue and customers
 
-- KPI cards for total revenue and customers
+- **Donut charts:** for gender and marital status
 
-- Donut charts for gender and marital status
+- **Bar charts:** for age group and education impact
 
-- Bar charts for age group and education impact
+- **Gauge chart:** to track total bikes purchased
 
-- Gauge chart to track total bikes purchased
-
-- Added interactive filters for children count, commute distance, region, and house ownership
+- **Added interactive filters:** for children count, commute distance, region, and house ownership
 
 ### 🔍Key Insights
 
@@ -125,15 +121,15 @@ Bachelors and Partial College customers led in purchase volume
 ### 📈Dashboard Features
 Interactive filters for region, children, commute distance, occupation, and home ownership
 
-- Dynamic visuals including:
+- **Dynamic visuals including:**
 
-Donut charts for gender and marital status
+  - Donut charts for gender and marital status
 
-Bar charts for age group and education breakdown
+  - Bar charts for age group and education breakdown
 
-KPI cards for total income, average income, and bike purchase rate
+  - KPI cards for total income, average income, and bike purchase rate
 
-Gauge for visualizing total bikes purchased
+  - Gauge for visualizing total bikes purchased
 
 ### 📊Results/Findings
 - Customers with higher income and middle age are more likely to purchase bikes.
@@ -145,13 +141,13 @@ Gauge for visualizing total bikes purchased
 - Commute distance and children count have potential influence on purchasing decisions but need deeper segmentation.
 
 ### 💡Recommendations
-1. Targeted Marketing: Focus on middle-aged, high-income, married women with a Bachelor's degree in upcoming campaigns.
+**1. Targeted Marketing:** Focus on middle-aged, high-income, married women with a Bachelor's degree in upcoming campaigns.
 
-2. Bundle Offers: Create promotions for families with children and longer commute distances.
+**2. Bundle Offers:** Create promotions for families with children and longer commute distances.
 
-3. Customer Segmentation: Leverage filters for hyper-targeted outreach by region and occupation.
+**3. Customer Segmentation:** Leverage filters for hyper-targeted outreach by region and occupation.
 
-4. Email Campaigns: Personalized emails to the most likely buyers based on the profile patterns discovered.
+**4. Email Campaigns:** Personalized emails to the most likely buyers based on the profile patterns discovered.
 
-5. Expand Regional Strategy: Invest more in the regions with higher engagement and bike purchase rate.
+**5. Expand Regional Strategy:** Invest more in the regions with higher engagement and bike purchase rate.
 
