@@ -1,4 +1,5 @@
-# Bike-Sales-Analysis
+# Bike Sales Analysis
+
 ## 📚 Table of Contents
 - [📌 Project Overview](#project-overview)  
 - [📊 Business Problem](#business-problem)  
