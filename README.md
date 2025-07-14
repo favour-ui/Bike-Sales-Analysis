@@ -40,6 +40,42 @@ The aim of this project is to analyze customer demographic data and purchase beh
 - MySQL – Data extraction and transformation
 
 - Power BI – Visualization and dashboard creation
+### 🔄 Process Workflow
+This project followed a structured data analysis lifecycle:
+
+1. Data Collection
+Imported raw data from an Excel spreadsheet containing customer demographics, income levels, education, marital status, and bike purchase history.
+
+2. Data Cleaning & Preprocessing
+ Handled missing or inconsistent entries using Excel
+
+ Renamed columns for clarity and consistency
+
+ Coded categorical variables where needed
+
+3. Data Transformation (SQL)
+ Connected dataset to MySQL Workbench
+
+ Wrote queries to group, aggregate, and filter data:
+
+ Grouped by gender, age group, income levels, etc.
+
+ Calculated total sales and purchase conversion percentages
+
+4. Data Visualization (Power BI)
+ Imported the cleaned data into Power BI
+
+ Created:
+
+- KPI cards for total revenue and customers
+
+- Donut charts for gender and marital status
+
+- Bar charts for age group and education impact
+
+- Gauge chart to track total bikes purchased
+
+- Added interactive filters for children count, commute distance, region, and house ownership
 
 ### 🔍 Key Insights
 
