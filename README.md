@@ -1,4 +1,5 @@
 # Bike-Sales-Analysis
+## Table of contents
 
 ### Project Overview
 
