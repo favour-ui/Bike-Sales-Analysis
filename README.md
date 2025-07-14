@@ -1,11 +1,22 @@
 # Bike-Sales-Analysis
-## Table of contents
+## 📚 Table of Contents
+- [📌 Project Overview](#project-overview)  
+- [📊 Business Problem](#business-problem)  
+- [🎯 Aim of the Project](#aim-of-the-project)  
+- [📥 Data Sources](#data-sources)  
+- [🛠 Tools Used](#tools-used)  
+- [🔄 Process Workflow](#process-workflow)  
+- [🔍 Key Insights](#key-insights)  
+- [📈 Dashboard Features](#dashboard-features)  
+- [📊 Results/Findings](#resultsfindings)  
+- [💡 Recommendations](#recommendations)
 
-### Project Overview
+
+### 📌Project Overview
 
 This project showcases an end-to-end exploratory data analysis and dashboard development on bike sales data. The objective was to identify customer behavior trends and key factors influencing bike purchases to drive better business decisions. The analysis was conducted using Excel, MySQL, and Power BI.
 
-### 📊 Business Problem
+### 📊Business Problem
 
 A bicycle company wanted to understand:
 
@@ -16,7 +27,7 @@ How do factors like income, marital status, education, and commute distance affe
 What regions and customer segments generate the most revenue?
 
 By uncovering trends and customer insights, the company aimed to optimize marketing strategies, increase sales, and enhance customer targeting.
-### 🎯 Aim of the Project
+### 🎯Aim of the Project
 The aim of this project is to analyze customer demographic data and purchase behavior to uncover insights that drive strategic decision-making in bike sales. This includes:
 
 - Identifying key factors that influence bike purchases (e.g., age, income, gender, marital status)
@@ -28,18 +39,18 @@ The aim of this project is to analyze customer demographic data and purchase beh
 - Providing actionable recommendations to enhance marketing effectiveness and boost revenue
 
 
-### 📥 Data Sources
+### 📥Data Sources
 
  **Sales data:** The primary data set used for this analysis is the "Bike_sales.csv"file,containg detailed information about each Bike sales made by the company
 
-### 🛠 Tools Used
+### 🛠Tools Used
 
 - Excel – Data cleaning and initial exploration
 
 - MySQL – Data extraction and transformation  
 
 - Power BI – Visualization and dashboard creation
-### 🔄 Process Workflow
+### 🔄Process Workflow
 This project followed a structured data analysis lifecycle:
 
 1. Data Collection
@@ -76,7 +87,7 @@ Imported raw data from an Excel spreadsheet containing customer demographics, in
 
 - Added interactive filters for children count, commute distance, region, and house ownership
 
-### 🔍 Key Insights
+### 🔍Key Insights
 
 - **Total Revenue:** $56M generated from 1000 customers
 
@@ -108,7 +119,7 @@ Bachelors and Partial College customers led in purchase volume
 
 <img width="601" height="335" alt="bike sales analysis" src="https://github.com/user-attachments/assets/b3f133bb-8ba0-493d-8a49-202f38fb14cc" />
 
-### 📈 Dashboard Features
+### 📈Dashboard Features
 Interactive filters for region, children, commute distance, occupation, and home ownership
 
 - Dynamic visuals including:
@@ -121,7 +132,7 @@ KPI cards for total income, average income, and bike purchase rate
 
 Gauge for visualizing total bikes purchased
 
-### 📊 Results / Findings
+### 📊Results/Findings
 - Customers with higher income and middle age are more likely to purchase bikes.
 
 - Female and married customers demonstrate a slightly higher conversion rate.
@@ -130,7 +141,7 @@ Gauge for visualizing total bikes purchased
 
 - Commute distance and children count have potential influence on purchasing decisions but need deeper segmentation.
 
-### 💡 Recommendations
+### 💡Recommendations
 1. Targeted Marketing: Focus on middle-aged, high-income, married women with a Bachelor's degree in upcoming campaigns.
 
 2. Bundle Offers: Create promotions for families with children and longer commute distances.
