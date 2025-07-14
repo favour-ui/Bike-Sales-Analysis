@@ -15,6 +15,17 @@ How do factors like income, marital status, education, and commute distance affe
 What regions and customer segments generate the most revenue?
 
 By uncovering trends and customer insights, the company aimed to optimize marketing strategies, increase sales, and enhance customer targeting.
+### 🎯 Aim of the Project
+The aim of this project is to analyze customer demographic data and purchase behavior to uncover insights that drive strategic decision-making in bike sales. This includes:
+
+- Identifying key factors that influence bike purchases (e.g., age, income, gender, marital status)
+
+- Segmenting customers based on socioeconomic attributes
+
+- Building an interactive dashboard that enables stakeholders to explore patterns, trends, and performance indicators in real time
+
+- Providing actionable recommendations to enhance marketing effectiveness and boost revenue
+
 
 ### 📥 Data Sources
 
