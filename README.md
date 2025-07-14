@@ -47,7 +47,9 @@ The aim of this project is to analyze customer demographic data and purchase beh
 
 - Excel – Data cleaning and initial exploration
 
-- MySQL – Data extraction and transformation  
+- MySQL – Data extraction and transformation
+  
+- DAX - Perform advanced calculations
 
 - Power BI – Visualization and dashboard creation
 ### 🔄Process Workflow
