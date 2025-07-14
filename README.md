@@ -34,9 +34,9 @@ The aim of this project is to analyze customer demographic data and purchase beh
 ### 🛠 Tools Used
 
 - Excel – Data cleaning and initial exploration
-  [Download the Excel dataset](https://github.com/your-username/bike-sales-analysis/raw/main/data/bike_sales_data.xlsx)
+  [Download the Excel dataset](https://github.com/download/bike-sales-analysis/raw/main/data/bike_sales_data.xlsx)
 
-- MySQL – Data extraction and transformation
+- MySQL – Data extraction and transformation  
 
 - Power BI – Visualization and dashboard creation
 ### 🔄 Process Workflow
